@@ -44,7 +44,7 @@
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Noormustafaa&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Noormustafaa&theme=dark&hide_border=false&border_radius=3" height="180" />
 
 </div>
 
