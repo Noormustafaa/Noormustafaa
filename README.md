@@ -34,8 +34,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noormustafa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafa&layout=compact&langs_count=6&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&langs_count=6&theme=dracula" height="150" />
 </div>
 
 ---
