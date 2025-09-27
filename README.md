@@ -111,11 +111,8 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  
-  <img src="https://github.com/Noormustafaa/Noormustafaa/blob/output/github-contribution-grid-snake.svg" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=github-compact)
 
-</div>
 
 ---
 
