@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Noor Mustafa</h1>
+<h1 align="center">Hey 👋, I'm Noor Mustafa Rajpar </h1>
 
-<p align="center">A passionate Java Full Stack Developer &  Data Scientist  Enthusiast</p>
+<p align="center">A passionate Data Scientist  & Java Full Stack Developer   Enthusiast</p>
 
 ---
 
