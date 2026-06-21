@@ -15,8 +15,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Noormustafaa&style=flat-square&color=blue)
-  ![GitHub Followers](https://img.shields.io/github/followers=Noormustafaa&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/Noormustafaa&style=social)
+  ![GitHub Followers](https://img.shields.io/github/followers/Noormustafaa?label=Followers&style=flat-square&color=blue)
+  ![GitHub Stars](https://img.shields.io/github/stars/Noormustafaa?label=Stars&style=flat-square&color=blue)
 
 </div>
 
@@ -114,7 +114,9 @@
 4. 🐳 Containerizing data workflows with Docker
 <!--END_SECTION:activity-->
 
----## 📈 Contribution Graph
+---
+
+## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=github-compact)
 
