@@ -32,7 +32,7 @@
     🌱 Currently learning: <b>Generative AI (LangChain, LLMs) & MLOps Pipelines</b><br>
     🎯 Goals: <b>Deploy production-ready Machine Learning models</b> and build automated pipelines<br>
     ⚡ Fun fact: <b>I can debug complex pandas dataframes better after coffee ☕</b><br>
-    💬 Ask me about: <b>Python, SQL, Generative AI, Machine Learning, and MLOps</b><br>
+    💬 Ask me about: <b>Python, SQL, Business Intelligence, Machine Learning, and MLOps</b><br>
   </i>
 </p>
 
@@ -45,9 +45,13 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter" />
 </div>
 
+### **Business Intelligence & Data Visualization**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau,matplot,excel" />
+</div>
+
 ### **Generative AI & LLM Tools**
 <div align="left">
-  <!-- LangChain/OpenAI representation using available skillicons -->
   <img src="https://skillicons.dev/icons?i=fastapi,flask,transformers" />
 </div>
 
@@ -103,9 +107,9 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Building automated Machine Learning pipelines
-2. 🤖 Integrating Large Language Models (LLMs) into Python apps
-3. 🐳 Containerizing data workflows with Docker
-4. 📈 Optimizing SQL queries and database structures
+2. 📊 Creating interactive Business Intelligence (BI) dashboards
+3. 🤖 Integrating Large Language Models (LLMs) into Python apps
+4. 🐳 Containerizing data workflows with Docker
 <!--END_SECTION:activity-->
 
 ---
