@@ -15,8 +15,8 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Noormustafaa&style=flat-square&color=blue)
-  ![GitHub Followers](https://img.shields.io/github/followers/Noormustafaa?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/Noormustafaa?style=social)
+  ![GitHub Followers](https://img.shields.io/github/followers=Noormustafaa&style=social)
+  ![GitHub Stars](https://img.shields.io/github/stars/Noormustafaa&style=social)
 
 </div>
 
@@ -47,7 +47,9 @@
 
 ### **Business Intelligence & Data Visualization**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau,matplot,excel" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 ### **Generative AI & LLM Tools**
@@ -112,9 +114,7 @@
 4. 🐳 Containerizing data workflows with Docker
 <!--END_SECTION:activity-->
 
----
-
-## 📈 Contribution Graph
+---## 📈 Contribution Graph
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=github-compact)
 
