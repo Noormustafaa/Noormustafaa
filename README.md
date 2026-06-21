@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  A passionate Data Scientist & Java Full Stack Developer
+  Data Scientist | Python & Generative AI Engineer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -28,11 +28,11 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   <br><br>
   <i>
-    ✨ Creating bugs since day one<br>
-    🌱 Currently learning: <b>Java Web-Based Applications</b><br>
-    🎯 Goals: <b>Master enterprise-level backend development</b> and contribute to open-source projects<br>
-    ⚡ Fun fact: <b>I can debug better after coffee ☕</b><br>
-    💬 Ask me about: <b>Java, Spring Boot, Data Science, Python</b><br>
+    ✨ Turning complex datasets into actionable AI solutions<br>
+    🌱 Currently learning: <b>Generative AI (LangChain, LLMs) & MLOps Pipelines</b><br>
+    🎯 Goals: <b>Deploy production-ready Machine Learning models</b> and build automated pipelines<br>
+    ⚡ Fun fact: <b>I can debug complex pandas dataframes better after coffee ☕</b><br>
+    💬 Ask me about: <b>Python, SQL, Generative AI, Machine Learning, and MLOps</b><br>
   </i>
 </p>
 
@@ -40,29 +40,30 @@
 
 ## 🛠️ Tech Stack
 
-### **Backend Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" />
-</div>
-
-### **Frontend Development**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</div>
-
 ### **Data Science & AI/ML**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter" />
 </div>
 
-### **Databases**
+### **Generative AI & LLM Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle,postgresql" />
+  <!-- LangChain/OpenAI representation using available skillicons -->
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,transformers" />
 </div>
 
-### **Tools & Platforms**
+### **DevOps & MLOps Automation**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,postman,docker,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
+</div>
+
+### **Databases & Analytics**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</div>
+
+### **Software Engineering (Secondary)**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js" />
 </div>
 
 ---
@@ -101,10 +102,10 @@
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Committed code to my repository
-2. ⭐ Starred a cool project
-3. 🐛 Fixed some bugs
-4. 📚 Learning new technologies
+1. 🚀 Building automated Machine Learning pipelines
+2. 🤖 Integrating Large Language Models (LLMs) into Python apps
+3. 🐳 Containerizing data workflows with Docker
+4. 📈 Optimizing SQL queries and database structures
 <!--END_SECTION:activity-->
 
 ---
@@ -124,7 +125,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormustafarajpar@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/noormustafa121)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noormustafaa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 </div>
 
