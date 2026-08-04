@@ -1,4 +1,4 @@
-<h1 align="center"> 
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noor+Mustafa+Rajpar!;" />
 </h1>
 
@@ -45,6 +45,8 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter" />
 </div>
 
+<br>
+
 ### **Business Intelligence & Data Visualization**
 <div align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
@@ -52,20 +54,28 @@
   <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
+<br>
+
 ### **Generative AI & LLM Tools**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,transformers" />
 </div>
+
+<br>
 
 ### **DevOps & MLOps Automation**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions" />
 </div>
 
+<br>
+
 ### **Databases & Analytics**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </div>
+
+<br>
 
 ### **Software Engineering (Secondary)**
 <div align="left">
@@ -77,20 +87,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <a href="https://github.com/Noormustafaa">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&langs_count=8&theme=radical" />
-  </a>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Noor Mustafa's GitHub Stats" />
   <br><br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -113,13 +116,6 @@
 3. 🤖 Integrating Large Language Models (LLMs) into Python apps
 4. 🐳 Containerizing data workflows with Docker
 <!--END_SECTION:activity-->
-
----
-
-## 📈 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=github-compact)
-
 
 ---
 
