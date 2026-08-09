@@ -87,9 +87,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Noor Mustafa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&include_all_commits=true" alt="Noor Mustafa's GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br><br>
