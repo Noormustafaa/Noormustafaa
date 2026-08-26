@@ -8,7 +8,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Data Scientist | Python & Generative AI Engineer
+  Data Scientist | Python & Generative AI Engineer | Linux Admin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -29,10 +29,10 @@
   <br><br>
   <i>
     ✨ Turning complex datasets into actionable AI solutions<br>
-    🌱 Currently learning: <b>Generative AI (LangChain, LLMs) & MLOps Pipelines</b><br>
-    🎯 Goals: <b>Deploy production-ready Machine Learning models</b> and build automated pipelines<br>
+    🌱 Currently learning: <b>Generative AI (LangChain, LLMs), Linux Administration & Networking</b><br>
+    🎯 Goals: <b>Deploy production-ready Machine Learning models</b> and manage secure infrastructure<br>
     ⚡ Fun fact: <b>I can debug complex pandas dataframes better after coffee ☕</b><br>
-    💬 Ask me about: <b>Python, SQL, Business Intelligence, Machine Learning, and MLOps</b><br>
+    💬 Ask me about: <b>Python, SQL, Business Intelligence, Machine Learning, MLOps & Linux Admin</b><br>
   </i>
 </p>
 
@@ -43,6 +43,15 @@
 ### **Data Science & AI/ML**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter" />
+</div>
+
+<br>
+
+### **Linux Administration, Networking & Systems**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,ubuntu" />
+  <img src="https://img.shields.io/badge/Networking-0055FF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP%20%26%20Firewall-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 <br>
@@ -100,9 +109,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Building automated Machine Learning pipelines
-2. 📊 Creating interactive Business Intelligence (BI) dashboards
-3. 🤖 Integrating Large Language Models (LLMs) into Python apps
-4. 🐳 Containerizing data workflows with Docker
+2. 🐧 Administering Linux servers & configuring network security
+3. 📊 Creating interactive Business Intelligence (BI) dashboards
+4. 🤖 Integrating Large Language Models (LLMs) into Python apps
+5. 🐳 Containerizing data workflows with Docker
 <!--END_SECTION:activity-->
 
 ---
