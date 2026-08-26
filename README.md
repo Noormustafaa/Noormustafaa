@@ -87,33 +87,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Noormustafaa">
-    <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&count_private=true" alt="Noor Mustafa's GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical" alt="Noor Mustafa's GitHub Stats" />
   <br><br>
-  <a href="https://github.com/Noormustafaa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
   <br><br>
-  <a href="https://github.com/Noormustafaa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
   <br><br>
-  <a href="https://github.com/Noormustafaa">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <a href="https://github.com/Noormustafaa">
-    <img src="https://github-profile-trophy.vercel.app/?username=Noormustafaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
