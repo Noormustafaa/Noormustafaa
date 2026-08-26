@@ -13,7 +13,7 @@
 </h3>
 
 <div align="center">
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=Noormustafaa&style=flat-square&color=blue)
   ![GitHub Followers](https://img.shields.io/github/followers/Noormustafaa?label=Followers&style=flat-square&color=blue)
   ![GitHub Stars](https://img.shields.io/github/stars/Noormustafaa?label=Stars&style=flat-square&color=blue)
@@ -87,13 +87,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical" alt="Noor Mustafa's GitHub Stats" />
+  <a href="https://github.com/Noormustafaa">
+    <img src="https://github-readme-stats.vercel.app/api?username=Noormustafaa&show_icons=true&theme=radical&count_private=true" alt="Noor Mustafa's GitHub Stats" />
+  </a>
   <br><br>
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/Noormustafaa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noormustafaa&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/Noormustafaa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noormustafaa&theme=radical&hide_border=false" alt="GitHub Streak" />
+  </a>
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <a href="https://github.com/Noormustafaa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noormustafaa&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
 </div>
 
 ---
@@ -101,8 +109,10 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Noormustafaa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+  <a href="https://github.com/Noormustafaa">
+    <img src="https://github-profile-trophy.vercel.app/?username=Noormustafaa&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
 
 </div>
 
@@ -135,7 +145,7 @@
 ## 💻 Coding Quote
 
 <div align="center">
-  
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
@@ -143,11 +153,11 @@
 ---
 
 <div align="center">
-  
+
   ### ❤️ Made with ❤️ by Noor Mustafa Rajpar
-  
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-  
+
   ![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)
 
 </div>
