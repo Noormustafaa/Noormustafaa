@@ -32,7 +32,7 @@
     🌱 Currently learning: <b>Generative AI (LangChain, LLMs), Linux Administration & Networking</b><br>
     🎯 Goals: <b>Deploy production-ready Machine Learning models</b> and manage secure infrastructure<br>
     ⚡ Fun fact: <b>I can debug complex pandas dataframes better after coffee ☕</b><br>
-    💬 Ask me about: <b>Python, SQL, Business Intelligence, Machine Learning, MLOps & Linux Admin</b><br>
+    💬 Ask me about: <b>Python, SQL, Oracle 19c (PL/SQL), Business Intelligence, Machine Learning, MLOps & Linux Admin</b><br>
   </i>
 </p>
 
@@ -82,6 +82,7 @@
 ### **Databases & Analytics**
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/Oracle%2019c%20%2F%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
 
 <br>
